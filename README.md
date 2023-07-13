@@ -8,8 +8,7 @@
 * Read this Before Deploy : [Term Of Service Railway](https://railway.app/legal/fair-use)
 
 ## Deploy Now 🚀
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/nUq8Je?referralCode=49-ICI)
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/nUq8Je)
 ## Update 🔥
 * Add Stupid Wiki [Here](https://github.com/itzYoungHazn/railway-ssh/wiki)
 * Add Instant OS
